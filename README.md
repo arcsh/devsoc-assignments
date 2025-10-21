@@ -2,6 +2,8 @@
 
 This repository contains a collection of projects demonstrating skills in both low-level systems programming and high-level artificial intelligence tasks. It is divided into two main parts: `syscall` and `ai-ml`.
 
+There is no documentation required for web-dev because the cloned repo was copied into this repo along with all associated files. Nothing has been changed in structure or form in those files. I have _only_ modified the underlying code to adhere to the instructions mentioned in the readme.
+
 -----
 
 ## 📂 Directory Structure
