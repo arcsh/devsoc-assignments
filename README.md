@@ -1,4 +1,4 @@
-# Project: System Calls & AI Tasks 🧠⚙️
+# Project: System Calls & AI Tasks
 
 This repository contains a collection of projects demonstrating skills in both low-level systems programming and high-level artificial intelligence tasks. It is divided into two main parts: `syscall` and `ai-ml`.
 
